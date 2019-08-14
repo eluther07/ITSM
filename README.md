@@ -1,3 +1,3 @@
 # ITSM
 
-This repo is for all code related it ITSM. 
+This repo is for all code related to ITSM. 
